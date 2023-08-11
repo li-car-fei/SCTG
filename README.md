@@ -8,6 +8,8 @@ Official PyTorch implementation of paper "SCTG: Style Conditioned Music Generati
 
 Some generated demo can be downloaded from [here](https://drive.google.com/drive/folders/1b0tPWIJYbYTBfjSn-vcIS2GUlUFo9d7i?usp=sharing)
 
+The generated demo in mp3 format shared [here](https://drive.google.com/drive/folders/1q0JNWx9bsNAXX3Ma_aN5evtEW6XzYx3n?usp=sharing)
+
 ## Model
 
 See the paper for details of the model.
